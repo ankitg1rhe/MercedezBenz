@@ -11,7 +11,7 @@
 	- data/employee.csv
 
 4. Data is of type employee
-	{ "employeeId": 5, "name": "Chetan Verma", "dateOfBirth": "24 January 1995",
+	- { "employeeId": 5, "name": "Chetan Verma", "dateOfBirth": "24 January 1995",
 		"salary": 65000.0, "age": 32  }
 	- each employee have unique id associated with him 
 
@@ -49,9 +49,9 @@
 		
 7. Commands
 	1. Run for both services
-		"mvn compile"
-		"mvn clean install"
-		"mvn package"
+		- mvn compile
+		- mvn clean install
+		- mvn package
 	2. JAR files created from both services have been added to Deployable_Services folder
 	
 
